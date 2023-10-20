@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oshada1233&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oshada1233&repo=github-readme-stats" />
 </a>
 <a href="[https://github.com/anuraghazra/convoychat](https://github-readme-stats.vercel.app/api/pin/?username=Oshada1233&repo=convoychat)">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Oshada1233&show_icons=true&theme=transparent" />
