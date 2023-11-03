@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oshada Viduranga</h1>
-<h3 align="center">Full-stack Developer</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 - 📫 How to reach me **oshadaviduranga5@gmail.com**
 
