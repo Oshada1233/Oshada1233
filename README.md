@@ -12,4 +12,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oshada1233&show_icons=true&locale=en&layout=compact" alt="oshada1233" /></p>
 
-<img src="https://raw.githubusercontent.com/Oshada1233/Oshada1233/output/snake.svg" alt="Snake animation" />
+
