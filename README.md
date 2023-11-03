@@ -1,11 +1,12 @@
-<h1 align="center" style="color='white';">Hi 👋, I'm Oshada Viduranga</h1>
-<h3 align="center">Full-Stack Developer</h3>
+Hi 👋, I'm Oshada Viduranga
+###
+Full-Stack Developer
 
-####
+##
 
 - 📫 How to reach me **oshadaviduranga5@gmail.com**
 
-####
+##
 
 <p align="left">
 </p>
