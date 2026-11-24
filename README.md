@@ -48,7 +48,7 @@ I enjoy working across the full development lifecycle — from designing databas
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+<p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oshada1233&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
 
