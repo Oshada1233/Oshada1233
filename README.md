@@ -1,51 +1,89 @@
-<h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Oshada+Viduranga;" />
-</h1>
+# 👋 Hi, I'm Oshada Viduranga
 
+### Software Engineer | Full-Stack Web Developer | Sri Lanka 🇱🇰
 
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&width=600&lines=Building+Modern+Web+Applications;Laravel+%7C+Vue.js+%7C+Flutter;Turning+Ideas+Into+Digital+Solutions" alt="Typing SVG" />
+</p>
 
-<h3 align="left">A Software Developer from Srilanka</h3>
+I'm a software developer passionate about building scalable web applications, modern user experiences, and reliable digital solutions.
 
-<br/>
+I enjoy working across the full development lifecycle — from designing databases and developing APIs to building responsive interfaces and deploying applications.
 
-<div align="left">
- 
- 🔭 I’m currently working on **Laravel Project**
- 
- 🌱 I’m currently learning **Laravel,Viewjs**
+---
 
- ⚡ Fun fact **Playing Games**
- 
- </div>
- 
-<div align="left"> 
-  <a href="oshadaviduranga5@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+## 🚀 About Me
+
+- 💻 Currently working as an **Associate Web Developer**
+- 🔭 Building applications with **Laravel, Vue.js, and modern web technologies**
+- 🌱 Continuously learning and exploring new technologies
+- ⚙️ Interested in scalable applications, API development, and system architecture
+- 🎮 Fun fact: I enjoy playing video games
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=php,js,dart,html,css" />
+</p>
+
+### Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,vue,flutter,bootstrap,tailwind,nodejs" />
+</p>
+
+### Databases & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,postman,linux,photoshop" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Oshada1233&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oshada1233&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Oshada1233&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="mailto:oshadaviduranga5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/oshada-viduranga-a52884227/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
+  <a href="https://github.com/Oshada1233" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
- <hr/>
+---
 
-
-<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,flutter,php,html,css,laravel,vuejs" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,firebase,mongodb,c,java,mysql,photoshop" /><br>
-</div>
-
-
-
-<div align="left">
-
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-
-
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b><br/>
+  <i>Let's build something amazing together.</i>
+</p>
