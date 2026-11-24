@@ -59,13 +59,6 @@ I enjoy working across the full development lifecycle — from designing databas
 
 ---
 
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 
